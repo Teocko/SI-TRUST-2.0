@@ -15,9 +15,9 @@ Splet + mobilni tok, HSM/PKI, integracije (CRP, SI-PASS), varni API-ji, nadzorna
 - Revizijska sled (append-only, žigi časa, IP, ID seje)
 
 **Povezave**
-- [Project board](../projects) – 6 faz (Backlog → Done)
-- [Milestones](../milestones) – M1 GDPR MVP, M2 Privolitve & Piškotki, M3 DPIA & ROPA, M4 Revizijska sled
-- [Issues](../issues) – najmanj 6 prioritetnih
+- [Project board](https://github.com/users/Teocko/projects/5) – 6 faz (Backlog → Done)
+- [Milestones](https://github.com/Teocko/SI-TRUST-2.0/milestones) – M1 GDPR MVP, M2 Privolitve & Piškotki, M3 DPIA & ROPA, M4 Revizijska sled
+- [Issues](https://github.com/Teocko/SI-TRUST-2.0/issues) – najmanj 6 prioritetnih
 
 **KPI/KRI (COBIT MEA03)**
 - Čas do izdaje ≤ 5 min
