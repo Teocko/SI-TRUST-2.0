@@ -1,0 +1,2 @@
+# SI-TRUST-2.0
+UIKT SI-TRUST 2.0 vaja
